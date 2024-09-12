@@ -36,6 +36,6 @@ public class Main {
             System.out.println("Try the divide and conquer strategy next time!");
         }
 
-        scan.close(); // Close the scanner
+        scan.close(); // Close the scanners
     }
 }
